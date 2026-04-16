@@ -1,0 +1,10 @@
+../Core/Src/main.c:64:17:ADC_ReadOnce	1
+../Core/Src/main.c:73:17:ADC_ReadAvg	2
+../Core/Src/main.c:94:17:Button_FromAdc	6
+../Core/Src/main.c:120:20:Button_Name	6
+../Core/Src/main.c:134:17:Button_GetPressed	5
+../Core/Src/main.c:174:5:main	4
+../Core/Src/main.c:274:6:SystemClock_Config	4
+../Core/Src/main.c:325:13:MX_ADC1_Init	4
+../Core/Src/main.c:395:13:MX_GPIO_Init	1
+../Core/Src/main.c:438:6:Error_Handler	1

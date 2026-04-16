@@ -1,0 +1,10 @@
+../Core/Src/main.c:64:17:ADC_ReadOnce	16	static
+../Core/Src/main.c:73:17:ADC_ReadAvg	24	static
+../Core/Src/main.c:94:17:Button_FromAdc	16	static
+../Core/Src/main.c:120:20:Button_Name	16	static
+../Core/Src/main.c:134:17:Button_GetPressed	24	static
+../Core/Src/main.c:174:5:main	144	static
+../Core/Src/main.c:274:6:SystemClock_Config	96	static
+../Core/Src/main.c:325:13:MX_ADC1_Init	48	static
+../Core/Src/main.c:395:13:MX_GPIO_Init	40	static
+../Core/Src/main.c:438:6:Error_Handler	4	static,ignoring_inline_asm
